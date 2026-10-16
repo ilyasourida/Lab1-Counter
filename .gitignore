@@ -1,0 +1,3 @@
+# Generated Verilator builds and simulation waveforms
+obj_dir/
+*.vcd
